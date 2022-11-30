@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.submitButton {
+  background-color: #007FFF; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.submitButton:hover {
+  background-color: #1f2db1; /* Green */
+  color: white;
+}
