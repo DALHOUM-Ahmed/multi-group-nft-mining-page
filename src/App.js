@@ -3,7 +3,7 @@ import "./App.css";
 const Web3 = require("web3");
 // var Contract = require("web3-eth-contract");
 const jsonInterface = require("./abi.json");
-const address = "0x515a0450194De07F9899aE2A20fEba1217e9a663";
+const address = "0xAfafFA12a6aF4f46eac9E51A9c035a55b7c838b3";
 let a = 0;
 let b = 0;
 let c = 0;
